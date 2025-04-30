@@ -29,21 +29,13 @@ flutter run
 - [Android Studio](https://developer.android.com/studio/install) - How to install Android Studio
 - [Flutter](https://flutter.dev) - Flutter Official website
 
-## Author 😊
 
-#### Muhammad Talha Sultan
-
-> You can also follow my GitHub Profile to stay updated about my latest projects: 
-> 
-> ![GitHub Follow](https://img.shields.io/github/followers/muhammadtalhasultan)
-
-> If you liked the repo then kindly support it by giving it a star ⭐!
 
 ## License
 
 MIT License
 
-Copyright (c) 2023 Muhammad Talha Sultan
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
